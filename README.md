@@ -10,3 +10,5 @@ You can view or download my CV below:
 
 [Click here to download the CV](https://github.com/Snickers-khalil/CV_Barhoumi_Khalil/raw/main/RenderCV_EngineeringResumes_Theme.pdf)
 
+Click the link above to open or download my CV.
+
