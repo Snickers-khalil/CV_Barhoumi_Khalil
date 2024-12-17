@@ -16,9 +16,10 @@ You can view or download my CV below:
 Here are some screenshots related to my CV:
 
 ### Screenshot 1
-![Screenshot 1](Screenshot1.png)
+<img src="Screenshot1.png" width="300" />
 
 ### Screenshot 2
-![Screenshot 2](Screenshot2.png)
+<img src="Screenshot2.png" width="300" />
+
 Click the link above to open or download my CV.
 
